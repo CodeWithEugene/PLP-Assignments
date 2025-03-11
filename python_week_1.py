@@ -17,7 +17,7 @@ def calculator():
         elif operation == "-":
             # Check if the operation is subtraction
             result = num1 - num2
-            # Perform subtraction
+            # Performing subtraction
         elif operation == "*":
             # Check if the operation is multiplication
             result = num1 * num2
